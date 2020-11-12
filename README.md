@@ -1,2 +1,3 @@
-# yes
+# Python Basic Code Sheet
+
 🔓 
